@@ -12,4 +12,9 @@ Python-Selenium quick start
 ###   B. Download the ChromeDriver matching your Google Chrome from:
 https://sites.google.com/a/chromium.org/chromedriver/downloads 
 
-###   C. Copy code from webtest.py
+###   C. Open terminal inside PyCharm (left bottom) and run:
+```bash
+    pip install selenium
+```
+
+###   D. Copy code from webtest.py
