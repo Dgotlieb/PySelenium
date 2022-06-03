@@ -10,7 +10,7 @@ Python-Selenium quick start
 
 
 ###   B. Download the ChromeDriver matching your Google Chrome from:
-https://sites.google.com/a/chromium.org/chromedriver/downloads 
+https://chromedriver.chromium.org/downloads
 
 ###   C. Open terminal inside PyCharm (left bottom) and run:
 ```bash
